@@ -1,0 +1,15 @@
+.tekstopmaak{
+    background-color:rgb(48, 189, 239);
+    padding: 10px;
+    color: white;
+}
+
+#navigatiebalk{
+    background-color: rgb(48, 189, 239);
+}
+.tekstnavigatie{
+    color:white
+}
+.ruimteNavigatie{
+    scroll-margin-top: 75px;
+}
